@@ -1,0 +1,9 @@
+C:\Users\my\Documents\Actually for work\Confirmit\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTreeTest.dll
+C:\Users\my\Documents\Actually for work\Confirmit\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTreeTest.pdb
+C:\Users\my\Documents\Actually for work\Confirmit\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTree.dll
+C:\Users\my\Documents\Actually for work\Confirmit\BinaryTree\BinaryTreeTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\my\Documents\Actually for work\Confirmit\BinaryTree\BinaryTreeTest\bin\Debug\BinaryTree.pdb
+C:\Users\my\Documents\Actually for work\Confirmit\BinaryTree\BinaryTreeTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\my\Documents\Actually for work\Confirmit\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.csprojResolveAssemblyReference.cache
+C:\Users\my\Documents\Actually for work\Confirmit\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.dll
+C:\Users\my\Documents\Actually for work\Confirmit\BinaryTree\BinaryTreeTest\obj\Debug\BinaryTreeTest.pdb

@@ -1,0 +1,5 @@
+C:\Users\my\Documents\Actually for work\Confirmit\BinaryTree\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\my\Documents\Actually for work\Confirmit\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\my\Documents\Actually for work\Confirmit\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\my\Documents\Actually for work\Confirmit\BinaryTree\BinaryTree\obj\Debug\BinaryTree.dll
+C:\Users\my\Documents\Actually for work\Confirmit\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
