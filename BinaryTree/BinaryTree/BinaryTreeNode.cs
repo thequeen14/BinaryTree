@@ -28,7 +28,9 @@ namespace BinaryTree
                 }
                 else
                 {
-                    return null;
+                    //here is the epic change
+                    return new BinaryTreeNode<T>();
+                    //return null;
                 }
             }
             set
